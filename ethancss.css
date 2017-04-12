@@ -4,6 +4,21 @@ div {
 }
 
 td {
-	width : 600px;
-	height: 200px;
+	width : 210px;
+	height: 210px;
+	color:white;
+	font-family: Arial;
 }
+
+#insta {
+	height: 175px;
+	width: 175px;
+	padding-left: 17px;
+}
+
+#pace {
+	height: 210px;
+	width: 210px;
+	align = "center";
+}
+
