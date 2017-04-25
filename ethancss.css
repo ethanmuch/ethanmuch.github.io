@@ -1,6 +1,6 @@
 div {
-	width: 600px;
-	height: 600px;
+	width: 210px;
+	height: 210px;
 }
 
 td {
@@ -36,3 +36,16 @@ td {
 #name {
 	height: 210px;
 	width: 210px;
+}	
+#ga {
+	height: 210px;
+	width: 210px;
+}	
+.table1 {
+	background-color: "IndianRed"
+}
+.div2 {
+	background-color: "IndianRed";
+	height: 1500px;
+	width: 1300px;
+}
