@@ -6,7 +6,7 @@ div {
 td {
 	width : 210px;
 	height: 210px;
-	color:white;
+	color:black;
 	font-family: Arial;
 }
 
@@ -25,7 +25,7 @@ td {
 	height: 420px;
 	width: 210px;
 }
-#resume {
+#resume1 {
 	height: 210px;
 	width: 210px;
 }
@@ -42,10 +42,24 @@ td {
 	width: 210px;
 }	
 .table1 {
-	background-color: "IndianRed"
+	background-color: IndianRed;
 }
 .div2 {
-	background-color: "IndianRed";
+	background-color: IndianRed;
 	height: 1500px;
 	width: 1300px;
+}
+.table1 {
+	color: black;
+}
+.td1 {
+	height: 200px;
+	width: 300px;
+	font-size: 40px;
+	color: white;
+}
+.td2 {
+	height: 160px;
+	width: 300;
+	font-size: 30px;
 }
