@@ -6,7 +6,7 @@ div {
 td {
 	width : 210px;
 	height: 210px;
-	color:black;
+	color: white;
 	font-family: Arial;
 }
 
@@ -38,8 +38,10 @@ td {
 	width: 210px;
 }	
 #ga {
-	height: 210px;
-	width: 210px;
+	height: 170px;
+	width: 170px;
+	padding-left: 25px;
+	padding-top: 9px;
 }	
 .table1 {
 	background-color: IndianRed;
@@ -55,11 +57,44 @@ td {
 .td1 {
 	height: 200px;
 	width: 300px;
-	font-size: 40px;
+	font-size: 30px;
 	color: white;
 }
 .td2 {
-	height: 160px;
+	height: 90px;
 	width: 300;
 	font-size: 30px;
+}
+.div2 {
+	background-color: Steel Blue;
+	height: 1500px;
+	width: 1300px;
+}
+.td3 {
+	height: 100px;
+	width: 600px;
+	font-size: 15px;
+	color: black;
+}
+.tr1 {
+	height: 700px;
+	width: 900;
+	font-size: 15px;
+}
+.td4 {
+	height: 30px;
+	width: 300px;
+	font-size: 30px;
+	color: white;
+}
+#nimbus {
+	height: 130px;
+	width: 200px;
+	padding-left: 6px;
+}
+#testgrid {
+	height: 1150px;
+	width: 180px;
+	padding-left: 14px;
+	padding-bottom: 14px;
 }
