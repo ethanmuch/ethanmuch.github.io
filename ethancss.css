@@ -55,6 +55,10 @@ td {
 .table1 {
 	color: black;
 }
+.table2 {
+	color: SteelBlue;
+	background-color: SteelBlue;
+}
 .td1 {
 	height: 200px;
 	width: 300px;
@@ -64,10 +68,11 @@ td {
 .td2 {
 	height: 90px;
 	width: 300;
-	font-size: 30px;
+	font-size: 20px;
+	color: black;
 }
-.div2 {
-	background-color: Steel Blue;
+.div3 {
+	background-color: SteelBlue;
 	height: 1500px;
 	width: 1300px;
 }
@@ -98,4 +103,22 @@ td {
 	width: 180px;
 	padding-left: 14px;
 	padding-bottom: 24px;
+}
+.div4 {
+	background-color: MediumPurple;
+	height: 1500px;
+	width: 1300px;
+}
+.td10 {
+	height: 100px;
+	width: 250px;
+	font-size: 20px;
+	background-color: MediumPurple;
+	align: middle;
+}
+.td11 {
+	height: 100px;
+	width: 250px;
+	font-size: 14px;
+	background-color: MediumPurple;	
 }
