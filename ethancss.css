@@ -31,8 +31,12 @@ td {
 	padding-left: 20px;
 }
 #link {
-	height: 210px;
-	width: 210px;
+	height: 175px;
+	width: 175px;
+	padding-left: 17.5px;
+	padding-right: 17.5px;
+	padding-top: 17.5px;
+	padding-bottom: 17.5px;
 }
 #name {
 	height: 210px;
@@ -122,3 +126,4 @@ td {
 	font-size: 14px;
 	background-color: MediumPurple;	
 }
+
